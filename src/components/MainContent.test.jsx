@@ -4,7 +4,7 @@ import userEvent from '@testing-library/user-event';
 
 import MainContent from './MainContent';
 
-// Kicau-kicau kicau mania v9
+// Kicau-kicau kicau mania v10
 
 describe('MainContent', () => {
   it('should render a button', () => {
